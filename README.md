@@ -1,3 +1,6 @@
+<p align="center" >
+  <img width="80%" height="10%" src="https://github.com/gabogarciam/gabogarciam/blob/master/assets/profile.gif" />
+</p>
 <h1 align='center'> Hi! there :wave:</h1>
 <p align='center'>
 I'm Gabriel.
